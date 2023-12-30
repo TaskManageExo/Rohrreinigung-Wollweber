@@ -137,12 +137,12 @@ a:focus {
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 10px 25px;
-  color: #000000;
+  color: #f9f5f5;
   text-align: center;
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #0355cc;
+  color: #f4f5f7;
 }
 
 .custom_nav-container .form-inline .nav_search-btn {
